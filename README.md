@@ -29,3 +29,4 @@ Our project goal was to visualize WWF’s impact throughout the globe, as granul
 - **Initial LLM Results using 5 LLM Methods (CSV):**
 - **Validation Score Sheet (CSV):**
 - **Final LLM Results (CSV):** All results compiled in one sheet for easy comparison, split by location & accomplishment
+- **GeoJSON files**
