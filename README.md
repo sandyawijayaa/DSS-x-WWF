@@ -12,7 +12,7 @@ Our project goal was to visualize WWF’s impact throughout the globe, as granul
 - **Getting locations:** Using PaLM + Spacy to get locations for all filtered 218 PDFs _([Christiana] PaLM+spaCy.ipynb)_
 - **Getting accomplishments:** Using OpenAI + Summarization Chain to get accomplishments for all filtered 218 PDFs _([Vishali] openai_summarize_chain.ipynb)_
 - **Getting GeoJSON:** Using OpenStreetMap to get GeoJSONs for all filtered 218 PDFs _([Sandya] run_all_Mapping.ipynb)_
-- **Creating Map:** Map with all completed pieces of information using Mapbox and search box function. _(Cleaned Code.ipynb)_
+- **Creating Map:** Map with all completed pieces of information using Mapbox and search box function. _([Vikash]_Cleaned_Code.ipynb)_
 ## Archived Notebooks 
 #### 5 LLMs Exploration
 - **Mistral** _(Joon_Mistral7B.ipynb)_
